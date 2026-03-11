@@ -2,3 +2,7 @@ liha 1
 linha 
 linha 3
 linha 4
+
+npm init -y
+ npm i -d typescript
+npm i -d @types/node
